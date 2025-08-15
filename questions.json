@@ -1,0 +1,53 @@
+{
+  "science": {
+    "easy": [
+      {"question": "What planet is closest to the sun?", "answer": "Mercury"},
+      {"question": "What is H2O?", "answer": "Water"},
+      {"question": "What gas do plants breathe in?", "answer": "Carbon Dioxide"}
+    ],
+    "medium": [
+      {"question": "What is the chemical symbol for gold?", "answer": "Au"},
+      {"question": "Who discovered penicillin?", "answer": "Alexander Fleming"},
+      {"question": "What is the speed of light in km/s?", "answer": "300000"}
+    ],
+    "hard": [
+      {"question": "What is the second law of thermodynamics?", "answer": "Entropy increases"},
+      {"question": "What is Schrödinger’s cat thought experiment about?", "answer": "Quantum superposition"},
+      {"question": "What particle has a negative charge?", "answer": "Electron"}
+    ]
+  },
+  "math": {
+    "easy": [
+      {"question": "What is 2 + 2?", "answer": "4"},
+      {"question": "What is 5 x 3?", "answer": "15"},
+      {"question": "What is 10 - 7?", "answer": "3"}
+    ],
+    "medium": [
+      {"question": "Solve for x: 2x + 3 = 7", "answer": "2"},
+      {"question": "What is the square root of 81?", "answer": "9"},
+      {"question": "What is 12 / 4?", "answer": "3"}
+    ],
+    "hard": [
+      {"question": "Integrate x^2 dx", "answer": "x^3/3 + C"},
+      {"question": "Derivative of sin(x)?", "answer": "cos(x)"},
+      {"question": "What is the value of pi to 3 decimal places?", "answer": "3.142"}
+    ]
+  },
+  "literature": {
+    "easy": [
+      {"question": "Who wrote 'Romeo and Juliet'?", "answer": "Shakespeare"},
+      {"question": "Who is the author of 'Harry Potter'?", "answer": "J.K. Rowling"},
+      {"question": "What is the main character in a story called?", "answer": "Protagonist"}
+    ],
+    "medium": [
+      {"question": "Who wrote '1984'?", "answer": "George Orwell"},
+      {"question": "What is a haiku?", "answer": "A Japanese poem of 3 lines"},
+      {"question": "Who wrote 'Pride and Prejudice'?", "answer": "Jane Austen"}
+    ],
+    "hard": [
+      {"question": "What is the meaning of 'bildungsroman'?", "answer": "Coming-of-age novel"},
+      {"question": "Who wrote 'The Divine Comedy'?", "answer": "Dante Alighieri"},
+      {"question": "Define 'metafiction'", "answer": "Fiction that self-consciously addresses the nature of fiction"}
+    ]
+  }
+}
