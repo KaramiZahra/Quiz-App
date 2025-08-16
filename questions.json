@@ -1,53 +1,53 @@
 {
   "science": {
     "easy": [
-      {"question": "What planet is closest to the sun?", "answer": "Mercury"},
-      {"question": "What is H2O?", "answer": "Water"},
-      {"question": "What gas do plants breathe in?", "answer": "Carbon Dioxide"}
+      {"question": "What planet is closest to the sun? 1)Venus 2)Mercury 3)Mars", "answer": "2"},
+      {"question": "What is H2O? 1)Water 2)Oxygen 3)Hydrogen", "answer": "1"},
+      {"question": "What gas do plants breathe in? 1)Carbon Dioxide 2)Oxygen 3)Nitrogen", "answer": "1"}
     ],
     "medium": [
-      {"question": "What is the chemical symbol for gold?", "answer": "Au"},
-      {"question": "Who discovered penicillin?", "answer": "Alexander Fleming"},
-      {"question": "What is the speed of light in km/s?", "answer": "300000"}
+      {"question": "What is the chemical symbol for gold? 1)Ag 2)Au 3)Gd", "answer": "2"},
+      {"question": "Who discovered penicillin? 1)Louis Pasteur 2)Alexander Fleming 3)Marie Curie", "answer": "2"},
+      {"question": "What is the speed of light in km/s? 1)150000 2)300000 3)450000", "answer": "2"}
     ],
     "hard": [
-      {"question": "What is the second law of thermodynamics?", "answer": "Entropy increases"},
-      {"question": "What is Schrödinger’s cat thought experiment about?", "answer": "Quantum superposition"},
-      {"question": "What particle has a negative charge?", "answer": "Electron"}
+      {"question": "The second law of thermodynamics states: 1)Energy is conserved 2)Entropy increases 3)Objects fall", "answer": "2"},
+      {"question": "Schrödinger’s cat illustrates which concept: 1)Relativity 2)Quantum superposition 3)Evolution", "answer": "2"},
+      {"question": "Which particle has a negative charge? 1)Proton 2)Electron 3)Neutron", "answer": "2"}
     ]
   },
   "math": {
     "easy": [
-      {"question": "What is 2 + 2?", "answer": "4"},
-      {"question": "What is 5 x 3?", "answer": "15"},
-      {"question": "What is 10 - 7?", "answer": "3"}
+      {"question": "What is 2+2? 1)3 2)4 3)5", "answer": "2"},
+      {"question": "What is 5x3? 1)15 2)10 3)20", "answer": "1"},
+      {"question": "What is 10-7? 1)2 2)3 3)4", "answer": "2"}
     ],
     "medium": [
-      {"question": "Solve for x: 2x + 3 = 7", "answer": "2"},
-      {"question": "What is the square root of 81?", "answer": "9"},
-      {"question": "What is 12 / 4?", "answer": "3"}
+      {"question": "Solve for x: 2x+3=7. 1)1 2)2 3)3", "answer": "2"},
+      {"question": "What is the square root of 81? 1)7 2)8 3)9", "answer": "3"},
+      {"question": "What is 12/4? 1)2 2)3 3)4", "answer": "2"}
     ],
     "hard": [
-      {"question": "Integrate x^2 dx", "answer": "x^3/3 + C"},
-      {"question": "Derivative of sin(x)?", "answer": "cos(x)"},
-      {"question": "What is the value of pi to 3 decimal places?", "answer": "3.142"}
+      {"question": "Integrate x^2 dx. 1)x^3/3+C 2)x^2/2+C 3)2x+C", "answer": "1"},
+      {"question": "Derivative of sin(x)? 1)cos(x) 2)-cos(x) 3)-sin(x)", "answer": "1"},
+      {"question": "Value of pi to 3 decimal places? 1)3.141 2)3.142 3)3.143", "answer": "2"}
     ]
   },
   "literature": {
     "easy": [
-      {"question": "Who wrote 'Romeo and Juliet'?", "answer": "Shakespeare"},
-      {"question": "Who is the author of 'Harry Potter'?", "answer": "J.K. Rowling"},
-      {"question": "What is the main character in a story called?", "answer": "Protagonist"}
+      {"question": "Who wrote 'Romeo and Juliet'? 1)Shakespeare 2)Dickens 3)Homer", "answer": "1"},
+      {"question": "Who is the author of 'Harry Potter'? 1)J.K. Rowling 2)Tolkien 3)Lewis Carroll", "answer": "1"},
+      {"question": "What is the main character in a story called? 1)Antagonist 2)Protagonist 3)Narrator", "answer": "2"}
     ],
     "medium": [
-      {"question": "Who wrote '1984'?", "answer": "George Orwell"},
-      {"question": "What is a haiku?", "answer": "A Japanese poem of 3 lines"},
-      {"question": "Who wrote 'Pride and Prejudice'?", "answer": "Jane Austen"}
+      {"question": "Who wrote '1984'? 1)George Orwell 2)Aldous Huxley 3)Mark Twain", "answer": "1"},
+      {"question": "What is a haiku? 1)A Japanese poem of 3 lines 2)A novel 3)An epic", "answer": "1"},
+      {"question": "Who wrote 'Pride and Prejudice'? 1)Jane Austen 2)Emily Brontë 3)Charlotte Brontë", "answer": "1"}
     ],
     "hard": [
-      {"question": "What is the meaning of 'bildungsroman'?", "answer": "Coming-of-age novel"},
-      {"question": "Who wrote 'The Divine Comedy'?", "answer": "Dante Alighieri"},
-      {"question": "Define 'metafiction'", "answer": "Fiction that self-consciously addresses the nature of fiction"}
+      {"question": "Meaning of 'bildungsroman'? 1)Adventure novel 2)Coming-of-age novel 3)Historical novel", "answer": "2"},
+      {"question": "Who wrote 'The Divine Comedy'? 1)Dante Alighieri 2)Homer 3)Virgil", "answer": "1"},
+      {"question": "Define 'metafiction'? 1)Fiction about science 2)Fiction that self-consciously addresses fiction 3)Fiction with magic", "answer": "2"}
     ]
   }
 }
